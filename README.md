@@ -1,4 +1,4 @@
-# Grating-Optimization
+# Grating Optimization
 Designing a diffraction grating cell (phase mask) using simulated annealing and other techniques
 
 

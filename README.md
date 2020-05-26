@@ -17,6 +17,8 @@ Simulated annealing is a well-characterized stochastic optimization algorithm ro
 
 In this implementation, an initial random phase mask is assigned with a unit amplitude. The Fourier Transform of the mask is taken to obtain the output wavefront. The intensity of the wavefront is found and the mean squared error (MSE) is calculated between the output intensity and the desired target pattern. The MSE serves as the merit function for the system. For each interation, the initial phase mask is randomly perturbed. If the MSE is lower than the previous value, the change is accepted. If not, a random value is chosen (uniformly) and if that value is smaller than t, the change is accepted. If not, a new perturbation is selected. This process is repeated ideally until a convergence of the MSE value is reached, therefore reaching the optimal design. 
 
+
+
 <p align="center">
 <img width="402" alt="SimAnnFlow" src="https://user-images.githubusercontent.com/47396320/82946425-2fb95b00-9f53-11ea-87a0-242de7b5f820.png">
 </p>

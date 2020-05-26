@@ -20,7 +20,7 @@ In this implementation, an initial random phase mask is assigned with a unit amp
 
 
 <p align="center">
-<img width="402" alt="SimAnnFlow" src="https://user-images.githubusercontent.com/47396320/82946425-2fb95b00-9f53-11ea-87a0-242de7b5f820.png">
-<em>Simulated Annealing Workflow</em>
+  <img width="402" alt="SimAnnFlow" src="https://user-images.githubusercontent.com/47396320/82946425-2fb95b00-9f53-11ea-87a0-242de7b5f820.png">
+  <em>Simulated Annealing Workflow</em>
 </p>
 

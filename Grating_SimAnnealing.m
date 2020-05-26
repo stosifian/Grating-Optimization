@@ -76,7 +76,7 @@ phase_n = PhaseTruncate(phase,levels);
 %Display optimized phase mask and corresponding pattern
 %Phase Mask
 figure
-imagesc(phase_n); colormap gray;
+imagesc(phase_n); colormap gray; colorbar
 title(['Optimized Phase Mask' ': Iteration ' num2str(n)])
 
 img1_size = L/2*1e3;     %in units of [mm] (millimeters)
@@ -91,7 +91,7 @@ set(gca, 'YTick', yticks, 'YTickLabel', yticklabels)
 
 %Pattern
 figure
-imagesc(Uout_f.*conj(Uout_f)); colormap gray;
+imagesc(Uout_f.*conj(Uout_f)); colormap gray; colorbar
 title(['Optimized Pattern' ': Iteration ' num2str(n)])
 
 img1_size = x2(end,end);     %in units of [mm] (millimeters)

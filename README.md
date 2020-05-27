@@ -34,6 +34,6 @@ Design optimization was implemented for a variety of patterns. The first target 
 
 
 <p align="center">
-  ![OG_Flow](https://user-images.githubusercontent.com/47396320/83070061-bd627c80-a01f-11ea-9014-3d5e40413b5d.jpg)
+<img width="622" alt="OG_Flow" src="https://user-images.githubusercontent.com/47396320/83074845-b475a900-a027-11ea-9cc1-38229ad7ff4b.png">
 </p>
 

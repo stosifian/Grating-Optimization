@@ -37,3 +37,16 @@ Design optimization was implemented for a variety of patterns. The first target 
 <img width="622" alt="OG_Flow" src="https://user-images.githubusercontent.com/47396320/83074845-b475a900-a027-11ea-9cc1-38229ad7ff4b.png">
 </p>
 
+
+
+<p align="center">
+<img width="687" alt="dot_Flow" src="https://user-images.githubusercontent.com/47396320/83074880-c48d8880-a027-11ea-976d-2cace5177a24.png">
+</p>
+
+
+
+<p align="center">
+<img width="688" alt="target_flow" src="https://user-images.githubusercontent.com/47396320/83074963-e981fb80-a027-11ea-8869-f19f2688053b.png">
+</p>
+
+

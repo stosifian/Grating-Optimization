@@ -33,15 +33,25 @@ In this implementation, an initial random phase mask is assigned with a unit amp
 Design optimization was implemented for a variety of patterns. The first target pattern was generated in MATLAB using generate_target() and the other target patterns were created using a paint software, converted to images, and then to binary matrices. Below are results for some of these patterns:
 
 
+
+
+
+
 <p align="center">
 <img width="622" alt="OG_Flow" src="https://user-images.githubusercontent.com/47396320/83074845-b475a900-a027-11ea-9cc1-38229ad7ff4b.png">
 </p>
 
 
 
+
+
+
 <p align="center">
 <img width="687" alt="dot_Flow" src="https://user-images.githubusercontent.com/47396320/83074880-c48d8880-a027-11ea-976d-2cace5177a24.png">
 </p>
+
+
+
 
 
 

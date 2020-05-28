@@ -66,4 +66,9 @@ Design optimization was implemented for a variety of patterns. The first target 
 </p>
 
 
+## Next Steps
+
+
+## References
+1. Diffractive Optics: Design, Fabrication, and Test, O'Shea et al.
 
